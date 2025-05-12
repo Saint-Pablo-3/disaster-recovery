@@ -58,11 +58,11 @@
 6. 
 
 
-`При необходимости прикрепитe сюда скриншоты
+`При необходимости прикрепитe сюда скриншоты`
 ![photo-1](./img/second-conf.png)
 ![photo-2](./img/second-script.png)
 ![photo-3](./img/second-html-check.png)
-`
+
 
 
 ---
